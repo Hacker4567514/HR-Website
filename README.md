@@ -1,2 +1,0 @@
-# HR-Website
-Industry Project
